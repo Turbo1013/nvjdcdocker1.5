@@ -21,7 +21,7 @@
 1拉源码
 国内
 ```
-git clone https://ghproxy.com/https://github.com/NolanHzy/nvjdcdocker.git /root/nolanjdc
+git clone https://ghproxy.com/https://github.com/jumao3703/nvjdcdocker.git /root/nolanjdc
 ```
 国外
 ```
@@ -53,7 +53,7 @@ mkdir -p  Config && cd Config
 
 
 ```
-wget -O Config.json  https://raw.githubusercontent.com/NolanHzy/nvjdc/main/Config.json
+wget -O Config.json  https://raw.githubusercontent.com/jumao3703/nvjdc/main/Config.json
 ```
 国内请使用
  ```
