@@ -21,7 +21,7 @@
 1拉源码
 国内
 ```
-git clone https://ghproxy.com/https://github.com/jumao3703/nvjdcdocker.git /root/nolanjdc
+git clone https://ghproxy.com/https://github.com/jumao3703/nvjdcdocker1.5.git /root/nolanjdc
 ```
 国外
 ```
